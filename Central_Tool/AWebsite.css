@@ -1,0 +1,17 @@
+html {
+    font-size: 16.5
+}
+
+h1{
+    text-align:center;
+}
+
+ul.nav{
+    text-align:center;
+}
+
+ul.nav li{
+    list-style-type:none;
+    display:inline;
+    margin:50px
+}
